@@ -1,0 +1,19 @@
+POST http://localhost:3000/auth/register
+Content-Type: application/json
+
+{
+  "username": "phani",
+  "email": "phani@yopmail.com",
+  "password": "Phani@12345"
+}
+
+###
+
+POST http://localhost:3000/auth/login
+Content-Type: application/json
+
+{
+  "username": "phani",
+  "email": "phani@yopmail.com",
+  "password": "Phani@12345"
+}
