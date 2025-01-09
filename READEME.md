@@ -1,3 +1,5 @@
+Deployed URL: https://assignment-login-app-be.onrender.com
+
 POST https://assignment-login-app-be.onrender.com/auth/register
 Content-Type: application/json
 
